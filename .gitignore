@@ -1,0 +1,19 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+*.swp
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+.env
+.env.local
